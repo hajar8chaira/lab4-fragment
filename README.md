@@ -4,7 +4,7 @@
 
 
 
-## Resultat Final (Screenshots)
+## Resultat
 Voici comment l'application se comporte quand on passe d'un fragment a l'autre :
 
 | Fragment 1 (Accueil) | Fragment 1 (cliquer sur bouton) |
