@@ -7,11 +7,15 @@
 ## Resultat Final (Screenshots)
 Voici comment l'application se comporte quand on passe d'un fragment a l'autre :
 
-| Fragment 1 (Accueil) | Fragment 2 (Interactif) |
+| Fragment 1 (Accueil) | Fragment 1 (cliquer sur bouton) |
 | :---: | :---: |
-| ![Fragment 1](img-lab2-dev/1.png) | ![Fragment 2](img-lab2-dev/3.png) |
-| On voit le bouton pour dire bonjour | On peut bouger la barre (SeekBar) |
+| ![Fragment 1](img-lab2-dev/1.png) | ![Fragment 1](img-lab2-dev/2.png) |
+| On voit le bouton pour dire bonjour | on click sur bouton |
 
+| Fragment 2  | Fragment 2  |
+| :---: | :---: |
+| ![Fragment 1](img-lab2-dev/3.png) | ![Fragment 1](img-lab2-dev/4.png) |
+| On voit lseekbar | On peut bouger la barre (SeekBar)  |
 ---
 
 ## Demonstration Video
